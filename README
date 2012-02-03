@@ -1,0 +1,9 @@
+I made this game for Week 1 of my Game Design class.
+
+The green circles are viruses floating around in blood, trying to make the infection (black circle) bigger. They automatically try to infect cells in the blood (white circles), but if they hit an antibody (a blue circle) on the way there, they die.
+
+You can fling antibodies out of the way of the green circles by dragging them with your mouse.
+
+Once you have 5 viruses floating in blood, any additional viruses will grow the infection. If the infection gets big enough, you win.
+
+I built this game in pygame and I think it has pretty good gameplay.
